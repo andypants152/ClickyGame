@@ -1,11 +1,18 @@
 import React, { Component } from 'react';
+import Header from "./components/Header";
+import Card from "./components/Card";
 
 class App extends Component {
+  state = {
+    score: 0,
+    highScore: 0
+  }
   render() {
     return (
-<div>
-  <h1>Hello World</h1>
-</div>
+      <div>
+        <Header score={this.state.score} highScore={this.state.highScore}/>
+        <Card />
+      </div>
     );
   }
 }
