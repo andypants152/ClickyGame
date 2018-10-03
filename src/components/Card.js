@@ -5,7 +5,7 @@ class Card extends React.Component {
 
         return (
 
-            <img src="https://via.placeholder.com/350x150"></img>
+            <img alt="" {...this.props}></img>
 
         )
     }
