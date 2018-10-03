@@ -1,8 +1,8 @@
 {
-  "main.js": "/ClickyGame/static/js/main.f6fa0652.chunk.js",
-  "main.js.map": "/ClickyGame/static/js/main.f6fa0652.chunk.js.map",
-  "static/js/1.c9105eec.chunk.js": "/ClickyGame/static/js/1.c9105eec.chunk.js",
-  "static/js/1.c9105eec.chunk.js.map": "/ClickyGame/static/js/1.c9105eec.chunk.js.map",
+  "main.js": "/ClickyGame/static/js/main.2506833c.chunk.js",
+  "main.js.map": "/ClickyGame/static/js/main.2506833c.chunk.js.map",
+  "static/js/1.122b9dfb.chunk.js": "/ClickyGame/static/js/1.122b9dfb.chunk.js",
+  "static/js/1.122b9dfb.chunk.js.map": "/ClickyGame/static/js/1.122b9dfb.chunk.js.map",
   "runtime~main.js": "/ClickyGame/static/js/runtime~main.59843ae1.js",
   "runtime~main.js.map": "/ClickyGame/static/js/runtime~main.59843ae1.js.map",
   "static/media/dog9.png": "/ClickyGame/static/media/dog9.93eab4c9.png",
@@ -16,6 +16,6 @@
   "static/media/dog8.png": "/ClickyGame/static/media/dog8.548162b0.png",
   "static/media/dog1.png": "/ClickyGame/static/media/dog1.7f6c9682.png",
   "index.html": "/ClickyGame/index.html",
-  "precache-manifest.7f3a1a25ff59ff2e20f75dfe0839f610.js": "/ClickyGame/precache-manifest.7f3a1a25ff59ff2e20f75dfe0839f610.js",
+  "precache-manifest.ea279a5e02d167052397cfd9552c8f41.js": "/ClickyGame/precache-manifest.ea279a5e02d167052397cfd9552c8f41.js",
   "service-worker.js": "/ClickyGame/service-worker.js"
 }
