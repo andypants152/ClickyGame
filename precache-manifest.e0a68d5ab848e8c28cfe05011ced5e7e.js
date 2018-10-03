@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/ClickyGame/static/media/dog4.2a1dc575.png"
   },
   {
-    "revision": "f6fa06528d80b849bc68",
-    "url": "/ClickyGame/static/js/main.f6fa0652.chunk.js"
+    "revision": "78e07487c32b267c8afa",
+    "url": "/ClickyGame/static/js/main.78e07487.chunk.js"
   },
   {
     "revision": "59843ae1c2ed89599fd0",
@@ -48,11 +48,11 @@ self.__precacheManifest = [
     "url": "/ClickyGame/static/media/dog8.548162b0.png"
   },
   {
-    "revision": "c9105eec59734ba84769",
-    "url": "/ClickyGame/static/js/1.c9105eec.chunk.js"
+    "revision": "122b9dfb2ca2966cffea",
+    "url": "/ClickyGame/static/js/1.122b9dfb.chunk.js"
   },
   {
-    "revision": "e6ef557de8b6bcedfd5e1250b72dfe0e",
+    "revision": "6e0b93060f10617910a957f3aa30c53c",
     "url": "/ClickyGame/index.html"
   }
 ];
